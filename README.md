@@ -1,8 +1,4 @@
-# Friends List App
+# Waifu Here App
+Hello my name is Tuan and i created this app to write about my favorite character or my favorite anime
 
-Hello my name is John Elder and I work at Codemy.com
-
-This is my Ruby on Rails Friends List App!
-
-Follow me at Codemy.com
-
+This is my Ruby on Rails My Waifu Here app!
