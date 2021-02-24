@@ -8,6 +8,7 @@ Bundler.require(*Rails.groups)
 
 module Friends
   class Application < Rails::Application
+  	config.assets.precompile << "audio/*"
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.0
 
